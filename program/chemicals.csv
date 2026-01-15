@@ -1,0 +1,7 @@
+Name,Type,Diffusion Rate,Decay Rate,Toxicity,Effective Range,Source,Metabolizable,Signal Role,pH Sensitivity,Concentration Threshold,Charge,Hydrophobicity,Color,Target Gram Type
+Glucose,Attractant,800-1000,Low,None,500-1000,Environment,True,Nutrient,Neutral,1-10,Neutral,Low,green,None
+Aspartate,Attractant,600-800,Moderate,None,300-600,Host,True,Amino acid,Neutral,0.1-5,-1,Low,sky,None
+Phenol,Repellent,400-600,High,High,200-400,Environment,False,Toxin,Acidic,0.5-2,Neutral,High,red,Both
+Butanol,Repellent,500-700,Moderate,Moderate,300-500,Environment,False,Solvent stress,Neutral,5-20,Neutral,High,brown,Both
+Autoinducer-2,Quorum signal,300-500,Low,None,100-300,Bacterial,False,Cell communication,Neutral,0.01-0.1,Neutral,Moderate,violet,None
+Polymyxin B,Repellent,200-400,Moderate,Extreme,100-200,Bacterial,False,Toxin,Neutral,0.1-1,-1,High,pink,Gram-negative

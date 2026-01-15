@@ -1,0 +1,6 @@
+Type,Location,Size,Permeability,Surface Adhesion,Reflectivity,Decay Over Time,Toxicity Zone,Mechanical Pressure,Dynamic,Interactivity,Color
+Agar Wall,Edge of plate,1000,Low,High,None,No,No,None,No,No,gray
+Polystyrene Bead,Suspended,10-50,High,Moderate,High,No,No,Low,Yes,No,blue
+Necrotic Tissue,Wound site,200-500,Moderate,High,Low,Yes,Yes,Moderate,No,Yes,brown
+Oil Droplet,Aquatic,50-200,None,Low,High,Slow,Yes,No,Yes,No,yellow
+Metal Oxide NP,Lab setting,0.1-1.0,None,Low,High,No,Yes,High,No,Yes,pink

@@ -1,0 +1,7 @@
+Name,Medium Type,pH,Temperature,Oxygen Level,Salinity,Viscosity,Surface Type,Nutrient Availability,Chemical Composition,Flow Rate,Light Availability,pH Gradient,Microbial Diversity,Biofilm Zones
+Lab Agar Plate,Gel,7.2,30,Aerobic,Low,High,Agar,Abundant,"Peptone, glucose",Static,None,No,Low,Yes
+Soil Microcosm,Solid,7,25,Aerobic,Moderate,High,Clay,Scarce,"Humic acids, minerals",Static,Low,Yes,Extreme,Yes
+Wound Site,Gel-like,7.4,35,Hypoxic,High,Moderate,Tissue,Moderate,"Proteins, ions, ROS",Static,None,Yes,Low,Yes
+Lake Water,Liquid,8,20,Variable,Low,Low,None,Moderate,"Organic matter, O₂",Dynamic,High,No,Moderate,No
+
+
